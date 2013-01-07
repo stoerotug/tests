@@ -1,5 +1,5 @@
 //########
-// source: http://kgm-par.googlecode.com/svn/trunk/ kgm-par-read-only
+// source: http://kgm-par.googlecode.com/svn/trunk/
 // modified: stoero
 //########
 
