@@ -1,3 +1,8 @@
+//########
+// source: http://kgm-par.googlecode.com/svn/trunk/ kgm-par-read-only
+// modified: stoero
+//########
+
 #include <iostream>
 #include <fstream>
 #include <limits>
