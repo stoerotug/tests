@@ -1,0 +1,1 @@
+<call> <file>/home/ro/mt/tests/isp/monte.c</file> <line>47</line> <node>MPI_Recv((&request),1,((MPI_Datatype )((void *)(&ompi_mpi_int))),-1,1,world,&status)</node> </call>
