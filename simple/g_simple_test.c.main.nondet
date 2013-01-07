@@ -1,0 +1,7 @@
+<call> <file>/home/ro/mt/tests/simple/g_simple_test.c</file> <line>14</line> <node>MPI_Recv((&a),1,((MPI_Datatype )((void *)(&ompi_mpi_int))),-1,1,((MPI_Comm )((void *)(&ompi_mpi_comm_world))),&recvstat)</node> </call>
+<call> <file>/home/ro/mt/tests/simple/g_simple_test.c</file> <line>28</line> <node>MPI_Recv((&a),1,((MPI_Datatype )((void *)(&ompi_mpi_int))),-1,1,((MPI_Comm )((void *)(&ompi_mpi_comm_world))),&recvstat)</node> </call>
+<call> <file>/home/ro/mt/tests/simple/g_simple_test.c</file> <line>46</line> <node>MPI_Recv((&a),1,((MPI_Datatype )((void *)(&ompi_mpi_int))),-1,1,((MPI_Comm )((void *)(&ompi_mpi_comm_world))),&recvstat)</node> </call>
+<call> <file>/home/ro/mt/tests/simple/g_simple_test.c</file> <line>74</line> <node>MPI_Recv((&a),1,((MPI_Datatype )((void *)(&ompi_mpi_int))),-1,1,((MPI_Comm )((void *)(&ompi_mpi_comm_world))),&recvstat)</node> </call>
+<call> <file>/home/ro/mt/tests/simple/g_simple_test.c</file> <line>86</line> <node>MPI_Recv((&a),1,((MPI_Datatype )((void *)(&ompi_mpi_int))),-1,1,((MPI_Comm )((void *)(&ompi_mpi_comm_world))),&recvstat)</node> </call>
+<call> <file>/home/ro/mt/tests/simple/g_simple_test.c</file> <line>114</line> <node>MPI_Recv((&c),1,((MPI_Datatype )((void *)(&ompi_mpi_int))),-1,1,((MPI_Comm )((void *)(&ompi_mpi_comm_world))),&recvstat)</node> </call>
+<call> <file>/home/ro/mt/tests/simple/g_simple_test.c</file> <line>128</line> <node>MPI_Recv((&d),1,((MPI_Datatype )((void *)(&ompi_mpi_int))),-1,1,((MPI_Comm )((void *)(&ompi_mpi_comm_world))),&recvstat)</node> </call>

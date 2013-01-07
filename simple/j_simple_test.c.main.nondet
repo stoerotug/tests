@@ -1,0 +1,2 @@
+<call> <file>/home/ro/mt/tests/simple/j_simple_test.c</file> <line>25</line> <node>MPI_Recv((&x),1,((MPI_Datatype )((void *)(&ompi_mpi_int))),-1,-1,((MPI_Comm )((void *)(&ompi_mpi_comm_world))),&status)</node> </call>
+<call> <file>/home/ro/mt/tests/simple/j_simple_test.c</file> <line>43</line> <node>MPI_Recv(array,2,((MPI_Datatype )((void *)(&ompi_mpi_int))),probe_status.MPI_SOURCE,-1,((MPI_Comm )((void *)(&ompi_mpi_comm_world))),&status)</node> </call>

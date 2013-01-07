@@ -39,8 +39,6 @@ echo test01.c
 ./../../rose/rose_build/bin/simpleMpiA test01.c
 echo test02.c
 ./../../rose/rose_build/bin/simpleMpiA test02.c
-
-
 echo test04.c
 ./../../rose/rose_build/bin/simpleMpiA test04.c
 echo test1.c

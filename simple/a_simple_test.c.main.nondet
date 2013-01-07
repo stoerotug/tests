@@ -1,0 +1,1 @@
+<call> <file>/home/ro/mt/tests/simple/a_simple_test.c</file> <line>18</line> <node>MPI_Recv((&y),1,((MPI_Datatype )((void *)(&ompi_mpi_int))),-1,1,((MPI_Comm )((void *)(&ompi_mpi_comm_world))),&recvstat)</node> </call>
